@@ -2,6 +2,12 @@
 
 This project is a clone of the Network tab from Google Developer Tools, built using React and Material-UI. It provides a user interface to fetch URLs, view detailed network request information, and sort requests by type.
 
+
+#Deployment
+
+ **Deployed Link:** https://network-project-nine.vercel.app/
+ **Backend Link:**  https://cors-backend-h9oa.onrender.com
+
 ## Features
 
 - **Fetch URLs:** Enter a URL and fetch network requests.
