@@ -8,6 +8,14 @@ This project is a clone of the Network tab from Google Developer Tools, built us
  **Deployed Link:** https://network-project-nine.vercel.app/
  **Backend Link:**  https://cors-backend-h9oa.onrender.com
 
+
+ ## Random URLS to Fetch
+
+ - https://jsonplaceholder.typicode.com/posts
+ - https://jsonplaceholder.typicode.com/comments
+ - https://jsonplaceholder.typicode.com/albums
+ - https://jsonplaceholder.typicode.com/todos
+
 ## Features
 
 - **Fetch URLs:** Enter a URL and fetch network requests.
