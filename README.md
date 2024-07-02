@@ -22,4 +22,26 @@ Ensure you have Node.js installed on your machine.
 
    ```bash
    git clone https://github.com/your-username/network-tab-clone.git
-   cd network-tab-clone
+   cd network
+   ```
+2. **Install dependencies:**
+
+  ```bash
+  npm install
+   ```
+3. **Usage**
+
+  ```bash
+  npm install
+   ```
+- Start the development server:
+- Open your browser and go to http://localhost:3000 to view the application.
+- Enter a URL in the input field and click "Fetch" to see network requests.
+- Click on a row in the table to view detailed information about a specific request.
+- Use the sort buttons to sort requests by type.
+
+## Project Structure
+
+- **src/NetworkTab.jsx**  Main component for displaying network requests and fetching URLs.
+- **src/RequestDetail.jsx**: Component for displaying detailed information about a selected network request.
+- **src/interceptors.jsx**: Sets up Axios interceptors to capture request and response details.
