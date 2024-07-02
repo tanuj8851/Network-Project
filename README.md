@@ -49,7 +49,7 @@ Ensure you have Node.js installed on your machine.
   npm install
    ```
 - Start the development server:
-- Open your browser and go to http://localhost:3000 to view the application.
+- Open your browser and go to https://network-project-nine.vercel.app/ to view the application.
 - Enter a URL in the input field and click "Fetch" to see network requests.
 - Click on a row in the table to view detailed information about a specific request.
 - Use the sort buttons to sort requests by type.
