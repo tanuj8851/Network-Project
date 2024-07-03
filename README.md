@@ -21,7 +21,7 @@ This project is a clone of the Network tab from Google Developer Tools, built us
 - **Fetch URLs:** Enter a URL and fetch network requests.
 - **Display Details:** View status, type, size, and timing of each request.
 - **Sort Requests:** Sort requests dynamically by type.
-- **Request Detail View:** Click on a request to see detailed information.
+- **Request Detail View:** Click on a **request name** to see detailed information.
 
 ## Technologies Used
 
