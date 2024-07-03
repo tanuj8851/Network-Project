@@ -48,7 +48,7 @@ const RequestDetail = ({ request }) => {
                         </TableRow>
                         <TableRow>
                             <TableCell>Response</TableCell>
-                            <TableCell>{JSON.stringify(request.response)}</TableCell>
+                            <TableCell><pre>{JSON.stringify(request.response, null, 2)}</pre></TableCell>
                         </TableRow>
                         <TableRow>
                             <TableCell>Initiator</TableCell>

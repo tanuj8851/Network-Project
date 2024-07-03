@@ -80,6 +80,8 @@ const NetworkTab = () => {
                 <Button onClick={() => handleSort('JS')}>JS</Button>
                 <Button onClick={() => handleSort('application/json')}>application/json</Button>
             </ButtonGroup>
+
+            <h1>Click On the Fetched Url Name to Further Details</h1>
             <TableContainer component={Paper}>
                 <Table>
                     <TableHead>
